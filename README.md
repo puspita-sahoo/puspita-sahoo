@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @puspita-sahoo
 - 👀 I’m interested in Python, Django, JavaScript.
 - 🌱 I’m currently learning Dynamic Website building.
-- 💞️ I’m looking forward to work as an intern.
 - 📫 How to reach me -
 _puspita.private@gmail.com_
 
